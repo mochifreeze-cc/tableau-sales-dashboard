@@ -95,4 +95,4 @@ LinkedIn:
 https://www.linkedin.com/in/helen-cm-/
 
 Website:
-https://public.tableau.com/app/profile/helen.cruz/viz/Salesvsprofitbyyear/Ventasporcategoria
+https://public.tableau.com/views/Salesvsprofitbyyear/Dashboard2?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
