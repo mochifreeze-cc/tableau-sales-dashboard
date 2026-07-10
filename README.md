@@ -26,7 +26,7 @@ The objective of this project is to analyze:
 
 ### Main Dashboard
 
-![](images/dashboard.png)
+![](images/dashboard2.png)
 
 ---
 
